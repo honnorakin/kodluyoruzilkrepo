@@ -16,8 +16,6 @@ git clone https://github.com/honnorakin/kodluyoruzilkrepo.git
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
-sadasdsadasdasdasdasdasdasdasdasdasdsadasd
-
 Linux için:
 
 ```bash
