@@ -13,6 +13,7 @@ gitclone https://github.com/honnorakin/kodluyoruzilkrepo.git
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 Linux için:
 
